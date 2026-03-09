@@ -51,9 +51,8 @@ The full dataset is quite large so you will be provided a mini-version for devel
 1️⃣ Set up python environment
 
 2️⃣ Explore data
-    
-    - Explore the pretraining, geostationary imagery dataset with [this notebook](https://github.com/WinterSchool2026/ch10-3d-hurricane-generation/blob/main/notebooks/00_data_geostationary.ipynb)
-    - Explore the finetuning, geostatinary image - cloudsat vertical profile, dataset.
+- Explore the pretraining, geostationary imagery dataset with [this notebook](https://github.com/WinterSchool2026/ch10-3d-hurricane-generation/blob/main/notebooks/00_data_geostationary.ipynb)
+- Explore the finetuning, geostatinary image - cloudsat vertical profile, dataset.
     
 
 3️⃣ Explore minimalist 3D cloud ML models
