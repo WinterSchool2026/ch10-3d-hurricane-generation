@@ -31,14 +31,14 @@ extemes challenge](https://eslab.ai/fdl-esl-2025).
 
 The full dataset is quite large so you will be provided a mini-version for development during the week. 
 
-| dataset | version | size |
----------------------------
-| pretraining | full | 453 GB |
-| finetuning | full | 324 GB |
-| TC | full | 1 GB |
-| pretraining | dev | 20 GB |
-| finetuning | dev | 10 GB |
-| TC | dev | 1 GB |
+| dataset     | version | size   |
+|-------------|---------|--------|
+| pretraining | full    | 453 GB |
+| finetuning  | full    | 324 GB |
+| TC          | full    | 1 GB   |
+| pretraining | dev     | 20 GB  |
+| finetuning  | dev     | 10 GB  |
+| TC          | dev     | 1 GB   |
 
 
  For more details look at first reference from recommended reading material and go [here](/README_data.md)
