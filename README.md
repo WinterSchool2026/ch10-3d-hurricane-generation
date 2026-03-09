@@ -40,7 +40,7 @@ Although the stated objective is to use generative tecniques to address 3D cloud
 2. A finetuning paired dataset with geostationary image and cloudsat vertical profile pairs. 
 4. A Tropical Cyclone paired dataset with geostationary image and cloudsat vertical profiles along selected TC tracks.
 
-The full dataset is quite large so you will be provided a mini-version for development during the week. 
+The full dataset is quite large so you will be provided a mini-version for development during the week. The full dataset is hosted at [data.coop](https://data.coop/en/) and can be accessed through notebooks, including some in this repo, but for quicker ML development we will provide the reduced version. 
 
 | dataset     | version | size   |
 |-------------|---------|--------|
