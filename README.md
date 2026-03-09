@@ -13,6 +13,8 @@ task, not all the vertical information is available. This means that for a given
 more appropriate to produce a distribution of possible 3d cloud maps. The goal is to use
 generative techniques, such as latent diffusion, to address this challenge.
 
-## Recommended reading material
+The dataset we will use was constructed as part of the [Earth System Lab 2025 (ESL) - 3D Clouds for climate
+extemes challenge](https://eslab.ai/fdl-esl-2025).
 
-- [FDL 2025 paper](https://arxiv.org/abs/2511.04773) 
+## Recommended reading materiale 
+- [ESL 2025 paper](https://arxiv.org/abs/2511.04773) 
