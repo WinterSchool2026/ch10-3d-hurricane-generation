@@ -19,7 +19,6 @@ Each pair is composed of a co-located geostationary image and vertical profile p
 Each geostationary image is composed of:
 
 - 256 by 256 pixels
-- 18-23 “channels”
 - 11-16 spectral channels
 - Metadata for the geostationary image including:
     - sensor geometry  satellite viewing angle (zenith and azimuth), and solar angle (zenith and azimuth) 
