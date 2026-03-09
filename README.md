@@ -55,7 +55,7 @@ The full dataset is quite large so you will be provided a mini-version for devel
 
 
 
-### 🚀 Getting Started (pre-challeng prep)
+### 🚀 Getting Started (pre-challenge prep)
 
 
 1️⃣ Set up python environment
