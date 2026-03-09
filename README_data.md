@@ -4,18 +4,20 @@
 #### Pretraining/Unsupervised dataset
 
 The dataset is composed of 512 x 512 pixel images from 3 geostationary satellites:
+
     - GOES: 16 spectral bands, coverage of Americas
     - Himawari: 16 spectral bands, coverage of Asia and Oceania 
     - MSG: 11 spectral bands, coverage of Europe and Africa
 
-
+There is metadata available for each geostationary image. 
 
 #### Finetuning/Supervised dataset
 
 Dataset is composed of paired geostationary images, cloudsat vertical profile observations: 
 Each pair is composed of a co-located geostationary image and vertical profile pair
 
-The geostationary image is composed of:
+Each geostationary image is composed of:
+
 - 256 by 256 pixels
 - 18-23 “channels”
 - 11-16 spectral channels
