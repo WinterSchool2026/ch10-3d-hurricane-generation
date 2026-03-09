@@ -34,10 +34,10 @@ The objectives are to be defined with the group but  broadly speaking we may exp
 
 ### 🗂️ Data
 
- The dataset is composed of two sub-datasets:
-- A pretraining, geostationary satillite imagery dataset. 
-- A finetuning paired dataset with geostationary image and cloudsat vertical profile pairs. 
-- A Tropical Cyclone paired dataset with geostationary image and cloudsat vertical profiles along selected TC tracks.
+ The dataset is composed of three sub-datasets:
+1. A pretraining, geostationary satellite imagery dataset. 
+2. A finetuning paired dataset with geostationary image and cloudsat vertical profile pairs. 
+4. A Tropical Cyclone paired dataset with geostationary image and cloudsat vertical profiles along selected TC tracks.
 
 The full dataset is quite large so you will be provided a mini-version for development during the week. 
 
