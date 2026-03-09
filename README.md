@@ -59,20 +59,20 @@ The full dataset is quite large so you will be provided a mini-version for devel
 ### 🚀 Getting Started (pre-challenge prep)
 
 
-1️⃣ Set up python environment
+(A) Set up python environment
 
-2️⃣ Explore data
+(B) Explore data
 - Explore the pretraining, geostationary imagery dataset with [this notebook](https://github.com/WinterSchool2026/ch10-3d-hurricane-generation/blob/main/notebooks/00_data_geostationary.ipynb)
 - Explore the finetuning, geostatinary image - cloudsat vertical profile, dataset.
     
 
-3️⃣ Explore minimalist 3D cloud ML models
+(C) Explore minimalist 3D cloud ML models
 
 - Explore a minimal U-net autoencoder based pre-training model with [this notebook](https://github.com/WinterSchool2026/ch10-3d-hurricane-generation/blob/main/notebooks/01_model_pretraining.ipynb)
 - Explore a minimal U-net regression model 
 
 
-### 🚀 Challenge plan 
+### 🧩  Challenge plan 
 
 1️⃣ Challenge presentation. - Monday 11:45-12:30
 - Brief presentation on dataset and previous work
