@@ -36,11 +36,10 @@ The full dataset is quite large so you will be provided a mini-version for devel
 | pretraining | full | 453 GB |
 | finetuning | full | 324 GB |
 | TC | full | 1 GB |
--------------------------------
 | pretraining | dev | 20 GB |
 | finetuning | dev | 10 GB |
 | TC | dev | 1 GB |
--------------------------------
+
 
  For more details look at first reference from recommended reading material and go [here](/README_data.md)
 
@@ -62,15 +61,6 @@ The full dataset is quite large so you will be provided a mini-version for devel
 - Explore a minimal U-net autoencoder based pre-training model with [this notebook](https://github.com/WinterSchool2026/ch10-3d-hurricane-generation/blob/main/notebooks/01_model_pretraining.ipynb)
 - Explore a minimal U-net regression model 
 
-4️⃣
-
-5️⃣
-
-6️⃣
-
-7️⃣
-
-8️⃣
 
 ### 🚀 Challenge plan 
 
