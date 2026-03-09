@@ -21,7 +21,8 @@ extemes challenge](https://eslab.ai/fdl-esl-2025).
 - [ESL 2025 paper](https://arxiv.org/abs/2511.04773) 
 
 ### 🎯 Challenge Objectives
-The objectives are to be defined with the group but  broadly speaking we may explore:
+
+Although the stated objective is to use generative tecniques to address 3D cloud reconstruction, depending on the interests and skills of the team we may explore several aspects of 3D cloud reconstruction:
 1. ML aspects of reconstructing 3D cloud fields such as:
     - producing uncertainty estimation
     - generative techniques
