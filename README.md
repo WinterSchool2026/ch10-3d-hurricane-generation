@@ -21,6 +21,16 @@ extemes challenge](https://eslab.ai/fdl-esl-2025).
 - [ESL 2025 paper](https://arxiv.org/abs/2511.04773) 
 
 ### 🎯 Challenge Objectives
+The objectives are to be defined with the group but  broadly speaking we may explore:
+1. ML aspects of reconstructing 3D cloud fields such as:
+    - producing uncertainty estimation
+    - generative techniques
+    - self-supervision techniques
+    - sensor independence tecniques
+    - others
+2. Downstream modeling. Use available 3D cloud models for modeling downstream cloud related phenomena such as:
+    - Tropical cyclone intensification
+    - Precipitation 
 
 ### 🗂️ Data
 
@@ -63,12 +73,19 @@ The full dataset is quite large so you will be provided a mini-version for devel
 
 ### 🚀 Challenge plan 
 
-1️⃣ Challenge presentation
+1️⃣ Challenge presentation. - Monday 11:45-12:30
+- Brief presentation on dataset and previous work
+- Discussion and Questions
 
-2️⃣ Session 1
+2️⃣ Session 1 - Monday 14:45-17:45
+- Miro board non-verbal session to agree on direction and design workflow
+- Pair coding 
 
-3️⃣ Session 2
+3️⃣ Session 2 - Wednesday 14:45-17:45
+- Pair coding
 
-4️⃣ Session 3
+4️⃣ Session 3 - Thursday 14:45-17:45
+- Agree on what we want to present 
 
-5️⃣ Presentation: present progress
+5️⃣ Presentation - 14-16:15
+- present progress
