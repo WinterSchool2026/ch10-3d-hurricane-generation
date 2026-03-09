@@ -85,7 +85,8 @@ The full dataset is quite large so you will be provided a mini-version for devel
 - Pair coding
 
 4️⃣ Session 3 - Thursday 14:45-17:45
-- Agree on what we want to present 
+- Presentation planning
+- Pair coding & presentation 
 
 5️⃣ Presentation - 14-16:15
 - present progress
