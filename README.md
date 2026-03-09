@@ -28,6 +28,8 @@ extemes challenge](https://eslab.ai/fdl-esl-2025).
 - A pretraining, geostationary satillite imagery dataset. 
 - A finetuning dataset with geostationary image and cloudsat vertical profile pairs. 
  
+ For more details look at first reference from recommended reading material and go [here](/README_data.md)
+
 
 ### 🚀 Getting Started (pre-challeng prep)
 
