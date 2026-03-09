@@ -28,18 +28,28 @@ extemes challenge](https://eslab.ai/fdl-esl-2025).
 
 
 1️⃣ Set up python environment
+
 2️⃣ Explore data
+
 3️⃣ Explore minimalist 3D cloud ML models
+
 4️⃣
+
 5️⃣
+
 6️⃣
+
 7️⃣
+
 8️⃣
 
 ### 🚀 Challenge plan 
 
 1️⃣ Challenge presentation
+
 2️⃣ Session 1
+
 3️⃣ Session 2
+
 4️⃣ Session 3
 
