@@ -14,3 +14,5 @@ more appropriate to produce a distribution of possible 3d cloud maps. The goal i
 generative techniques, such as latent diffusion, to address this challenge.
 
 ## Recommended reading material
+
+- FDL 2025 paper[https://arxiv.org/abs/2511.04773] 
