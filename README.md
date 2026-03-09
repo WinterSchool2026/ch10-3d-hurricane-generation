@@ -15,4 +15,4 @@ generative techniques, such as latent diffusion, to address this challenge.
 
 ## Recommended reading material
 
-- FDL 2025 paper[https://arxiv.org/abs/2511.04773] 
+- [FDL 2025 paper](https://arxiv.org/abs/2511.04773) 
