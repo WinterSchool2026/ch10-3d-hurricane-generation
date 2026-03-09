@@ -16,5 +16,5 @@ generative techniques, such as latent diffusion, to address this challenge.
 The dataset we will use was constructed as part of the [Earth System Lab 2025 (ESL) - 3D Clouds for climate
 extemes challenge](https://eslab.ai/fdl-esl-2025).
 
-## Recommended reading materiale 
+## Recommended reading materials 
 - [ESL 2025 paper](https://arxiv.org/abs/2511.04773) 
