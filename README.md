@@ -24,14 +24,50 @@ extemes challenge](https://eslab.ai/fdl-esl-2025).
 
 ### 🗂️ Data
 
+A more thorough description can be found in the first reference above. The dataset is composed of two sub-datasets:
+- A pretraining, geostationary satillite imagery dataset. 
+- A finetuning dataset with geostationary image and cloudsat vertical profile pairs. 
+ 
+#### Pretraining/Unsupervised dataset
+
+The dataset is composed of 512 x 512 pixel images from 3 geostationary satellites:
+    - GOES: 16 bands, coverage of Americas
+    - Himawari: 16 bands, coverage of Asia and Oceania 
+    - MSG: 11 bands, coverage of Europe and Africa
+
+#### Finetuning/Supervised dataset
+
+Dataset is composed of paired geostationary images, cloudsat vertical profile observations: 
+Each pair is composed of a co-located geostationary image and vertical profile pair
+
+The geostationary image is composed of:
+- 256 by 256 pixels
+- 18-23 “channels”
+- 11-16 spectral channels
+- 4 channels describing sensor geometry:  satellite viewing angle (zenith
+and azimuth), and solar angle (zenith and azimuth) 
+- 2 channels describing time of measurement: fraction of year and fraction of day.
+cloudsat overhead mask showing the pixels where the path along the image where the cloudsat profile is available. 
+- cloudsat overpass mask indicating pixels for which a vertical profile is available.
+
+The cloudsat vertical profile is composed of:
+- W pixels along the image (variable length 256-512) and 125 height levels. 
+- 3 variables: Radar reflectivity, Effective droplet radius and Ice Water Content
+
+
 ### 🚀 Getting Started (pre-challeng prep)
 
 
 1️⃣ Set up python environment
 
 2️⃣ Explore data
+    - Explore the pretraining, geostationary imagery dataset with [this notebook](https://github.com/WinterSchool2026/ch10-3d-hurricane-generation/blob/main/notebooks/00_data_geostationary.ipynb)
+    - Explore the finetuning, geostatinary image - cloudsat vertical profile, dataset.
+    
 
 3️⃣ Explore minimalist 3D cloud ML models
+- Explore a minimal U-net autoencoder based pre-training model with [this notebook](https://github.com/WinterSchool2026/ch10-3d-hurricane-generation/blob/main/notebooks/01_model_pretraining.ipynb)
+- Explore a minimal U-net regression model 
 
 4️⃣
 
