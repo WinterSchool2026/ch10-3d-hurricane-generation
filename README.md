@@ -89,5 +89,5 @@ The full dataset is quite large so you will be provided a mini-version for devel
 - Presentation planning
 - Pair coding & presentation 
 
-5️⃣ Presentation - 14-16:15
+5️⃣ Presentation - Friday 14-16:15
 - present progress
