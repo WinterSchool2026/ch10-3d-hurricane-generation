@@ -59,7 +59,7 @@ The full dataset is quite large so you will be provided a mini-version for devel
 ### 🚀 Getting Started (pre-challenge prep)
 
 
-🅐  Set up python environment
+🅐  [Set up python environment](https://github.com/WinterSchool2026/ch10-3d-hurricane-generation/blob/main/environments/README.md). 
 
 🅑 Explore data
 - Explore the pretraining, geostationary imagery dataset with [this notebook](https://github.com/WinterSchool2026/ch10-3d-hurricane-generation/blob/main/notebooks/00_data_geostationary.ipynb)
