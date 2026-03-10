@@ -68,8 +68,8 @@ The full dataset is quite large so you will be provided a mini-version for devel
 
 🅒 Explore minimalist 3D cloud ML models
 
-- Explore a minimal U-net autoencoder based pre-training model with [this notebook](https://github.com/WinterSchool2026/ch10-3d-hurricane-generation/blob/main/notebooks/01_model_pretraining.ipynb)
-- Explore a minimal U-net regression model 
+- Explore a minimal U-net autoencoder based pre-training model with [this notebook](https://github.com/WinterSchool2026/ch10-3d-hurricane-generation/blob/main/notebooks/01a_model_pretraining.ipynb) and [this notebook](https://github.com/WinterSchool2026/ch10-3d-hurricane-generation/blob/main/notebooks/01b_model_pretraining.ipynb)
+- Explore a minimal U-net regression model with [this notebook](https://github.com/WinterSchool2026/ch10-3d-hurricane-generation/blob/main/notebooks/02_model_finetuning.ipynb)
 
 
 ### 🧩  Challenge plan 
