@@ -180,6 +180,8 @@ cython_debug/
 # Ignore outputs
 output/
 outputs/*
+weights/*
+weights/
 **/outputs/*
 /**/outputs/*
 /**/ablation/*
